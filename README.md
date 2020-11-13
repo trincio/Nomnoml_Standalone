@@ -2,7 +2,7 @@
 Standalone version of [Nomnoml](https://github.com/skanaar/nomnoml) - Incl. NCBS
 
 # Reason for this pseudofork
-1. Demonstrate how does [NCBS](https://github.com/trincio/NCBS) works.
+1. Demonstrate how does [NCBS](https://github.com/trincio/NCBS) work.
 2. Provide a standalone fully working Nomnoml App
 
 # Where to use it
