@@ -21,15 +21,6 @@ img, svg {
 .wrap {
 	height: 100%;
 }
-#linemarker {
-	background: rgba(220,50,47,0.5);
-	position: absolute;
-	left: 0;
-	top: -30px;
-	width: 40px;
-	height: 22px;
-	z-index: 4;
-}
 #textarea {
 	outline: none;
 	position: absolute;
@@ -337,12 +328,19 @@ a:hover img {
 	width: 300px;
 	z-index: 2;
 }
+.alert-list.persistent {
+	z-index: 5;
+	right: 10px;
+}
 .alert {
 	position: relative;
 	padding: 10px 30px 10px 20px;
 	margin: 0 0 20px 0;
 	font-family: sans-serif;
 	color: #444;
+}
+.alert > p {
+	margin-top: 0;
 }
 .alert.alert-hidden { display: none; }
 .alert-close {
