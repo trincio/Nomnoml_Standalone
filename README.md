@@ -1,3 +1,6 @@
+#UPDATE
+Updated with the released version of nomnoml on march 2024.
+
 # Nomnoml_Standalone
 Standalone version of [Nomnoml](https://github.com/skanaar/nomnoml) - Incl. NCBS
 
